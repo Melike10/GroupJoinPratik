@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupJoinPratik", "GroupJoinPratik\GroupJoinPratik.csproj", "{119756DB-8667-4EA1-904A-3D23168C8049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{119756DB-8667-4EA1-904A-3D23168C8049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119756DB-8667-4EA1-904A-3D23168C8049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119756DB-8667-4EA1-904A-3D23168C8049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119756DB-8667-4EA1-904A-3D23168C8049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7003973D-B0A7-496D-8A3C-1F6ACB76DE82}
+	EndGlobalSection
+EndGlobal
